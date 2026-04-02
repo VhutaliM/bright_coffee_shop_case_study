@@ -17,7 +17,7 @@ The goal was to uncover insights into sales performance, customer purchasing beh
 
 ## ⚙️ Tools & Technologies
 - SQL (Databricks) – Data cleaning and transformation  
-- Microsoft Excel (2013) – Data analysis, pivot tables, and dashboard creation  
+- Microsoft Excel – Data analysis, pivot tables, and dashboard creation  
 - XMind – Exploratory Data Analysis (EDA) planning  
 - PowerPoint (PPTX) – Presentation of insights  
 
@@ -61,20 +61,22 @@ The dashboard enables quick comparison of store performance and sales trends.
 ---
 
 ## 💡 Key Insights
-- Sales are relatively evenly distributed across all three stores  
-- Certain product categories drive most of the revenue  
-- Peak sales occur at specific times of day  
-- Some stores underperform compared to others  
-- Customer behavior varies by day of the week  
+- Sales are relatively evenly distributed across all three stores
+- Sales declined between the 27th and 31st
+- Late morning is the peak sales period , highest customer activity and revenue occur during this time
+- Certain product categories drive most of the revenue such as tea and coffee   
+- Customer behavior varies by day of the week with monday having the most sales
 
 ---
 
 ## 📊 Business Recommendations
-- Optimize underperforming stores  
-- Use peak hours for promotions and upselling  
+- Maintain consistency across stores by standardizing best practices in service, product quality, and operations  
+- Use high and low peak hours for promotions and upselling  
 - Focus on high-performing products  
-- Adjust staffing based on demand patterns  
+- Increase staff during peak late morning hours   
 - Use targeted marketing strategies  
+  - Introduce promotions during the 27th–31st dip  
+  - Apply loyalty programs and limited-time offers  
 
 ---
 
