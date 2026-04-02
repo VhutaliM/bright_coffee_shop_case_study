@@ -27,9 +27,13 @@ The goal was to uncover insights into sales performance, customer purchasing beh
 - Standardized column names and formats to eliminate inconsistencies  
 - Cleaned and structured a large transactional dataset  
 - Created new features:
-  - Month  
-  - Day of week  
-  - Time of day  
+  - Day name
+  - Month name 
+  - Day of month
+  - Day classificatin
+  - Time classification
+  - Spend category
+  - Revenue
 - Processed data using SQL in Databricks and exported to Excel  
 
 ---
