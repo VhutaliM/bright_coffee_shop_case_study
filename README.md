@@ -102,4 +102,10 @@ The dashboard enables quick comparison of store performance and sales trends.
 - Feature engineering  
 - Excel (Pivot Tables, Dashboards)  
 - Data visualization  
-- Business analysis  
+- Business analysis
+
+## 🔮 Future Improvements
+- Integrate customer-level data for deeper segmentation  
+- Build a Power BI dashboard for enhanced interactivity  
+- Incorporate forecasting models for sales prediction  
+- Analyze profitability if cost data becomes available  
